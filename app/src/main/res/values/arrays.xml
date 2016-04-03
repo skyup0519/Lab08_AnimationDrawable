@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nba_logo">
+        <item>@drawable/b1</item>
+        <item>@drawable/b2</item>
+        <item>@drawable/b3</item>
+        <item>@drawable/b4</item>
+        <item>@drawable/b5</item>
+        <item>@drawable/b6</item>
+        <item>@drawable/b7</item>
+        <item>@drawable/b8</item>
+        <item>@drawable/b9</item>
+        <item>@drawable/b10</item>
+        <item>@drawable/b11</item>
+        <item>@drawable/b12</item>
+        <item>@drawable/b13</item>
+        <item>@drawable/b14</item>
+        <item>@drawable/b15</item>
+        <item>@drawable/b16</item>
+        <item>@drawable/b17</item>
+        <item>@drawable/b18</item>
+        <item>@drawable/b19</item>
+        <item>@drawable/b20</item>
+        <item>@drawable/b21</item>
+        <item>@drawable/b22</item>
+        <item>@drawable/b23</item>
+        <item>@drawable/b24</item>
+        <item>@drawable/b25</item>
+        <item>@drawable/b26</item>
+    </array>
+
+    <array name="nba_name">
+        <item>馬刺</item>
+        <item>勇士</item>
+        <item>國王</item>
+        <item>老鷹</item>
+        <item>尼克</item>
+        <item>灰狼</item>
+        <item>騎士</item>
+        <item>七六人</item>
+        <item>金塊</item>
+        <item>小牛</item>
+        <item>山貓</item>
+        <item>快艇</item>
+        <item>公牛</item>
+        <item>巫師</item>
+        <item>公鹿</item>
+        <item>灰熊</item>
+        <item>黃蜂</item>
+        <item>爵士</item>
+        <item>太陽</item>
+        <item>活塞</item>
+        <item>拓荒者</item>
+        <item>魔術</item>
+        <item>暴龍</item>
+        <item>賽亞提克</item>
+        <item>湖人</item>
+        <item>火箭</item>
+    </array>
+
+
+</resources>
